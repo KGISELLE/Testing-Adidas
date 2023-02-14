@@ -1,0 +1,21 @@
+{
+  "name": "Testing-Adidas",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KGISELLE/Testing-Adidas.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KGISELLE/Testing-Adidas/issues"
+  },
+  "homepage": "https://github.com/KGISELLE/Testing-Adidas#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.30.0"
+  }
+}
